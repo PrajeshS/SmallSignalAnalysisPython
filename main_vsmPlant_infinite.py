@@ -2,7 +2,7 @@
 
 #optional imports
 
-def main_vsm_infinite(user_params=None):
+def main_vsmPlant_infinite(user_params=None):
     #parameters
     wbase = 2 * np.pi * 60
     parasIBR = {

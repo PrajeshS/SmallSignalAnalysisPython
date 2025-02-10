@@ -56,5 +56,5 @@ def main_vsmPlant_infinite(user_params=None):
     return testResults  # Now it only returns results without calling visualization
 
 if __name__ == "__main__":
-    results = main_gfl_infinite()
+    results = main_vsmPlant_infinite()
     print(results)
